@@ -7,6 +7,9 @@ Modern and modular open source python package used to create discord bots.
 The goal of this project is to implement an easy to use system which can dynamically add commands and functionality to Discord Bots.  
 I also plan to include a way to manage and control bots through the console during runtime.
 
+## Installation
+
+You can install the current version using "python -m pip install echidnalib"
 
 <!-- ROADMAP -->
 ## Roadmap
